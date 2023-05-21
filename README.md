@@ -1,4 +1,4 @@
-# risk-management-binary-classification
+# Risk Management (binary classification)
 
 ## Objective: 
 Create a model that predicts whether applicants will become successful if funded by Alphabet Soup (a fictitious venture capital firm).
